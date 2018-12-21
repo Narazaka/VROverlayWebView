@@ -425,7 +425,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   url: https://www.google.com/
   position: {x: 0, y: 0, z: 0, w: 0}
-  size: {x: 900, y: 750}
+  size: {x: 0, y: 0}
 --- !u!64 &609252899
 MeshCollider:
   m_ObjectHideFlags: 0
