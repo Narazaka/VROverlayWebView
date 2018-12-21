@@ -1,6 +1,10 @@
 # VROverlayWebView
 SteamVR Overlay WebView
 
+## Download
+
+**[Download from here!](https://github.com/Narazaka/VROverlayWebView/releases)**
+
 ## Usage
 
 Run this, then WebView is attached to your right hand controller.
