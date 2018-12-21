@@ -7,7 +7,7 @@ Run this, then WebView is attached to your right hand controller.
 
 - You can left click and scroll page by clicking and dragging by your left controller.
 - Keyboard, right click or some other operations can perform by using desktop window.
-- WebView is Trident.
+- WebView is Trident (Internet Explorer).
 
 ## How to build
 
